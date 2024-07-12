@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ['doa', 'dodam']
+
+roboflow:
+  workspace: yoloproject-rnxqb
+  project: yolo_detection-k6wm8
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/yoloproject-rnxqb/yolo_detection-k6wm8/dataset/1

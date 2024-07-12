@@ -1,4 +1,6 @@
-# YOLO_V8_Custom_Training
+# YOLO_V8_Custom_Training with Roboflow
+![YOLOv8 Logo](https://yolov8.org/wp-content/uploads/2024/01/YOLOv8.png) 
+![Roboflow Logo1](https://cdn.prod.website-files.com/5f6bc60e665f54545a1e52a5/642746dba53a59a614a64b35_roboflow-open-graph.png) 
 
 ## 캐릭터 이미지 라벨링 및 학습
 

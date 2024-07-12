@@ -1,4 +1,3 @@
-markdown
 # YOLO_V8_Custom_Training
 
 ## 캐릭터 이미지 라벨링 및 학습

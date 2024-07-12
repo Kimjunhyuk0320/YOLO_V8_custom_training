@@ -24,7 +24,7 @@ YOLOv8을 설치하려면 터미널에서 아래 명령어를 실행하세요:
 ```pip install ultralytics```
 
 ### 데이터 라벨링
-Roboflow에서 데이터를 라벨링하고 YOLOv8 형식으로 dataset.zip 파일을 내보냅니다. Roboflow를 사용하여 데이터셋을 라벨링합니다.
+Roboflow에서 데이터를 라벨링하고 YOLOv8 형식으로 dataset.zip 파일을 내보냅니다. Roboflow를 사용하여 데이터셋을 라벨링합니다. (이미 이 단계는 완료해서 git프로젝트 내에 첨부 완료)
 
 ### YOLOv8 커스텀 데이터셋으로 학습시키기
 train_yolo.py 스크립트를 사용하여 커스텀 데이터셋으로 YOLOv8을 학습시킵니다. 터미널에서 아래 명령어를 실행하세요:

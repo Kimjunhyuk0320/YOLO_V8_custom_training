@@ -38,24 +38,24 @@ img_yolo.py 스크립트를 사용하여 새로운 이미지를 탐지합니다.
 탐지 결과는 output 폴더에 저장됩니다.
 
 
-YOLO_V8_Custom_Training/
+YOLO_V8_Custom_Training
 │
-├── dataset/
-│   ├── images/
-│   ├── labels/
+├── dataset
+│   ├── images
+│   ├── labels
 │   └── data.yaml
 │
-├── runs/
-│   └── detect/
-│       └── train/
-│           └── weights/
+├── runs
+│   └── detect
+│       └── train
+│           └── weights
 │               └── best.pt
 │
-├── testImg/
+├── testImg
 │   ├── image1.jpg
 │   └── image2.jpg ...
 │
-├── output/
+├── output
 │   ├── image1.jpg
 │   └── image2.jpg ...
 │

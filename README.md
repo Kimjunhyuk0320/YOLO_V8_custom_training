@@ -120,7 +120,3 @@ YOLO_V8_Custom_Training/
 │
 ├── train_yolo.py
 └── img_yolo.py
-go
-
-
-위의 내용을 `README.md` 파일로 저장하시면 됩니다. 이 파일은 프로젝트의 개요, 환경 설정, 데이터 라벨링

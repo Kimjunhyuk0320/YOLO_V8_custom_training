@@ -16,8 +16,8 @@ NVIDIA GPU를 사용하여 학습 속도를 높이려면 CUDA를 설치해야 �
 
 ### 3. PyTorch 설치
 PyTorch를 설치합니다. 터미널에서 Python 설치 폴더로 이동한 후, 아래 명령어를 실행하세요:
-
-```pip install torch torchvision torchaudio```
+[PyTorch 다운로드 설명 참조](https://wandb.ai/onlineinference/YOLO/reports/YOLOv5-Object-Detection-on-Windows-Step-By-Step-Tutorial---VmlldzoxMDQwNzk4)
+```pip3 install ~~~```
 
 ### YOLOv8 설치
 YOLOv8을 설치하려면 터미널에서 아래 명령어를 실행하세요:
